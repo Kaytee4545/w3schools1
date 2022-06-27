@@ -1,0 +1,1554 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+/* nav-bar */
+.dropdown:hover
+{
+    background-color: #04AA6D;
+}
+i:hover
+{
+    color: #04AA6D;
+}
+.cart-1:hover
+{
+    color: black;
+}
+
+.nav-btn
+{
+    cursor: pointer;
+}
+.btn-web-1
+{
+    background-color: #04AA6D;
+    border-radius: 30px;
+}
+.btn-web-1:hover
+{
+    background-color: lightgreen;
+}
+.btn-web
+{
+    background-color: #FFC0C7;
+    border-radius: 30px;
+}
+.g-btn:hover
+{
+    background-color: #04AA6D;
+    border-radius: 30px;
+}
+.btn-web:hover
+{
+    background-color: #04AA6D;
+}
+.navbar-brand img
+{
+    width: 70x;
+    height: 40px;
+}
+.navbar 
+{
+    padding: 20px 8px;
+}
+.nav-item 
+{
+    padding: 0 12px;
+}
+.nav-link 
+{
+    font-size: 1.1em;
+    font-family: monsterat-light;
+}
+/* learn-to-code */
+h6
+{
+    color: #FFC0C7;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+}
+.ltc-div
+{
+    position: absolute;
+    left: 33%;
+    top: 22%;
+}
+.ltc-div-2
+{
+    position: absolute;
+    top: 50%;
+    left: 33%;
+}
+.ltc-h1
+{
+    font-weight: 700;
+    font-size: 70px;
+}
+.ltc-a
+{
+    position: absolute;
+    color: #fff;
+    font-size: x-large;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.ltc-a:hover{
+    color: #04AA6D;
+}
+#learn-to-code
+{
+    background-color: #1d2a35! important ;
+    color: #fff;
+    height: 500px;
+}
+.ltc-div-2 form{
+    width: 2375%;
+    max-width: 100%;
+    position: relative;
+}
+.ltc-div-2 form input:first-child
+{
+    display: inline-block;
+    width: 100%;
+    padding: 14px 130px 14px 15px;
+    border-radius: 30px;
+    border: 2px solid;
+    outline: none;
+}
+.ltc-div-2 form input:last-child
+{
+    position: absolute;
+    display: inline-block;
+    outline: none;
+    border: none;
+    padding: 10px 30px ;
+    border-radius: 30px;
+    top: 6px;
+    right: 6px;
+    background-color: #04AA6D;
+}
+
+/* HTML section */
+#HTML-section
+{
+    background-color:#D9EEE1 ;
+    height: 700px;
+}
+.html-h1{
+    font-size: 100px;
+    font-weight: 700;
+    
+}
+.html-container
+{
+    position: absolute;
+    left: 18%;
+    margin-top: 7%;
+}
+.html-pic-png
+{
+    height: 70vh;
+    width: 41vw;
+}
+.HTML-PT
+{
+    padding: 15px 13px;
+    align-items: center;
+
+}
+.html-p6
+{
+    font-size: 19px;
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    color:  black!important;
+}
+.html-btn-1 a
+{
+    width: 250px;
+    color: white!important;
+    background-color:#04AA6D;
+    text-align: center;
+    font-size: 18px;
+    display: block;
+    border-radius: 30px;
+    font-weight: 500;
+}
+.html-btn-2 a
+{
+    width: 250px;
+    background-color: #FFF4A3!important;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 30px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 22px;
+    font-weight: 500;
+ 
+}
+.html-btn-3 a
+{
+    width: 250px;
+    background-color: #282A35!important;
+    color: white! important;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 30px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 22px;
+    font-weight: 500;
+}
+.html-btn-4 a
+{
+    width: 250px;
+    background-color: #FFC0C7!important;
+    color: black!important;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 30px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 22px;
+    font-weight: 500;
+}
+/* css-section */
+
+#css-section
+{
+    background-color: rgb(255, 244, 163) !important;
+    color: black !important;
+    height: 550px;
+}
+.css-h1
+{
+    font-size: 100px;
+    font-weight: 700;
+   position: relative;
+   left: 43%;
+   
+   
+}
+.css-p6
+{
+    font-size: 19px;
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    color:  black!important;
+    position: relative;
+    left: 37%;
+    bottom: 5%;
+}
+.css-btn
+{
+    position: relative;
+    left: 40%;
+   
+}
+.css-pic-png
+{
+    height: 60vh;
+    width: 49vw;
+   
+}
+.css-container
+{
+    position: relative;
+    top: 13%;
+    right: 5%;
+   
+}
+/* Js-section */
+#js-section
+{
+    background-color: #282A35!important;
+    height: 600px;
+}
+.js-h1
+{
+    font-size: 70px;
+    font-weight: 700;
+    margin-bottom: 18px!important;
+    color: white!important;
+    position: relative;
+    left: 22%;
+}
+.js-p6
+{
+    font-size: 19px;
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    color: white!important;
+    position: relative;
+    left: 20%;
+}
+.js-btn
+{
+    width: 250px;
+    background-color: white! important;
+    color: black!important;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 30px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 22px;
+   font-weight: 500;
+}
+.js-container
+{
+    position: relative;
+    top: 13%;
+    right: 4%;
+}
+.js-btn-1
+{
+    position: relative;
+    left: 26%;
+}
+.js-pic-png
+{
+    height: 60vh;
+    width: 48.5vw;
+}
+
+/* python section */
+
+
+#Python-section
+{
+    background-color: #F3ECEA!important;
+    height: 600px;
+}
+.python-container
+{
+    position: relative;
+    top: 12%;
+    right: 5%;
+}
+.pyt-h1
+{
+    font-size: 80px;
+    font-weight: 700;
+    position: relative;
+    left: 30%;
+}
+.pyt-p6
+{
+    font-size: 19px;
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    position: relative;
+    font-weight: 500;
+    left: 28%;
+}
+.pyt-btn
+{
+    position: relative;
+    left: 30%;
+}
+.pyt-pic-png
+{
+    height: 63vh;
+    width: 48.5vw;
+}
+
+/* SQL-section */
+
+#sql-section
+{
+    background-color:  #96D4D4!important;
+    height: 600px;
+}
+.sql-container
+{
+    position: relative;
+    top: 13%;
+    right: 5%;
+}
+.sql-h1
+{
+    font-size: 80px;
+    font-weight: 700;
+    position: relative;
+    left: 37%;
+}
+.sql-pic-png
+{
+    height: 63vh;
+    width: 48.5vw
+}
+
+/* multi-class section */
+
+#mc-section
+{
+    background-color: #282A35!important;
+}
+.mc-container
+{
+    position: relative;
+    padding: 7% 2%;
+}
+.mc-h5
+{
+    font-size: 45px;
+    font-weight: 700
+}
+.mc-text
+{
+    font-weight: 400;
+    margin: 10px 0px;
+}
+.php-card
+{
+    text-align: center!important;
+    background-color: #FFC0C7;
+    padding: 24px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    margin-right: 15px;
+    
+}
+.jq-card
+{
+    text-align: center!important;
+    padding: 24px;
+    background-color: #FFF4A3;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+}
+.java-card
+{
+    background-color: #F3ECEA;
+    text-align: center!important;
+    padding: 24px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    margin-right: 15px;
+    
+}
+.c-card
+{
+    background-color: #D9EEE1;
+    text-align: center!important;
+    padding: 24px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+}
+.w3-card
+{
+    background-color: #96D4D4;
+    text-align: center!important;
+    padding: 24px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    margin-right: 15px;
+}
+.boot-card
+{
+    background-color: #E7E9EB;
+    text-align: center!important;
+    padding: 24px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+}
+
+.c-btn
+{
+    line-height: 1.5;
+    background-color: rgb(255, 192, 199) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 100%;
+    height: 90%;
+    cursor: pointer;
+    margin-right: 3%;
+}
+.dmc-btn
+{
+    position: relative;
+    top: 30%;
+}
+.c2-btn
+{
+    line-height: 1.5;
+    background-color: rgb(255, 244, 163) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 100%;
+    height: 90%;
+    cursor: pointer;
+    margin-left: 18px;
+    padding-top: 5%;
+   
+}
+
+.r-btn
+{
+    line-height: 1.5;
+    background-color: rgb(243, 236, 234) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+   
+}
+
+.kot-btn
+{
+    line-height: 1.5;
+    background-color:  rgb(217, 238, 225) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.node-btn
+{
+    line-height: 1.5;
+    background-color:  rgb(150, 212, 212) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 18px;
+}
+.rt-btn
+{
+    line-height: 1.5;
+    background-color: rgb(255, 192, 199) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.json-btn
+{
+    line-height: 1.5;
+    background-color: rgb(255, 244, 163) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.ang-btn
+{
+    line-height: 1.5;
+    background-color: rgb(243, 236, 234) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.mysql-btn
+{
+    line-height: 1.5;
+    background-color: rgb(217, 238, 225) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 18px;
+}
+.xml-btn
+{
+    line-height: 1.5;
+    background-color: rgb(150, 212, 212) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.Sass-btn
+{
+    line-height: 1.5;
+    background-color: rgb(255, 192, 199) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.icons-btn
+{
+    line-height: 1.5;
+    background-color: rgb(255, 244, 163) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.rwd-btn
+{
+    line-height: 1.5;
+    background-color: rgb(243, 236, 234) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 18px;
+}
+.graphics-btn
+{
+    line-height: 1.5;
+    background-color: rgb(217, 238, 225) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.Svg-btn
+{
+    line-height: 1.5;
+    background-color: rgb(150, 212, 212) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.canvas-btn
+{
+    line-height: 1.5;
+    background-color: rgb(255, 192, 199) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.rasp-btn
+{
+    line-height: 1.5;
+    background-color: rgb(255, 244, 163) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 18px;
+}
+.cybsec-btn
+{
+    line-height: 1.5;
+    background-color: rgb(243, 236, 234) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.colors-btn
+{
+    line-height: 1.5;
+    background-color: rgb(217, 238, 225) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.git-btn
+{
+    line-height: 1.5;
+    background-color: rgb(150, 212, 212) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.matplot-btn
+{
+    line-height: 1.5;
+    background-color: rgb(255, 192, 199) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 18px;
+}
+.Numpy-btn
+{
+    line-height: 1.5;
+    background-color: rgb(255, 244, 163) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.pandas-btn
+{
+    line-height: 1.5;
+    background-color: rgb(243, 236, 234) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.scipy-btn
+{
+    line-height: 1.5;
+    background-color: rgb(217, 238, 225) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.asp-btn
+{
+    line-height: 1.5;
+    background-color: rgb(150, 212, 212) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 18px;
+}
+.access-btn
+{
+    line-height: 1.5;
+    background-color: rgb(255, 192, 199) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.appml-btn
+{
+    line-height: 1.5;
+    background-color: rgb(255, 244, 163) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.go-btn
+{
+    line-height: 1.5;
+    background-color: rgb(243, 236, 234) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.typescript-btn
+{
+    line-height: 1.5;
+    background-color: rgb(217, 238, 225) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 18px;
+}
+.django-btn
+{
+    line-height: 1.5;
+    background-color: rgb(150, 212, 212) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 270px;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.excel-btn
+{
+    line-height: 1.5;
+    background-color: rgb(150, 212, 212) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 19em;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.gsheets-btn
+{
+    line-height: 1.5;
+    background-color: rgb(255, 244, 163) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 19em;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 18px;
+}
+.ml-btn
+{
+    line-height: 1.5;
+    background-color: rgb(255, 192, 199) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 19em;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.AI-btn
+{
+    line-height: 1.5;
+    background-color: rgb(243, 236, 234) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 19em;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 18px;
+}
+.stats-btn
+{
+    line-height: 1.5;
+    background-color: rgb(243, 236, 234) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 19em;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.datasci-btn
+{
+    line-height: 1.5;
+    background-color: rgb(217, 238, 225) !important;
+    color: black !important;
+    text-align: center!important;
+    font-size: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    width: 19em;
+    height: 120px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 18px;
+}
+.cod-h1
+{
+    font-size: 65px;
+    font-weight: 700;
+    text-align: center;
+    color: white!important;
+    margin-top: 140px;
+    
+}
+.cod-h4
+{
+    margin-top: 25px;
+    text-align: center!important;
+    font-size: 20px;
+    color: white!important;
+}
+.cod-btn
+{
+    width: 25%;
+    background-color: #059862!important;
+    color: white! important;
+    text-align: left;
+    font-size: 18px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 22px;
+    font-weight: 500;
+    padding: 10px 13px;
+    margin-left: 6%;
+    cursor: pointer;
+}
+.cod-btn-1
+{
+      width: 30%;
+     background-color: #FFF4A3!important;
+     color: black!important;
+     text-align: left;
+     font-size: 18px;
+     border-radius: 10px;
+     text-decoration: none;
+     display: inline-block;
+     margin-top: 22px;
+     font-weight: 500;
+    padding: 10px 13px;
+    margin-left: 6%;
+    cursor: pointer;
+}
+.code-edit-add
+{
+    margin-left: 6%;
+    margin-top: 35px;
+    
+}
+.cod-btn-1:hover
+{
+    background-color: #fff080!important;
+}
+.cod-btn:hover
+{
+    background-color: #09f343!important;
+}
+
+
+/* <!-- W3Schools Spaces --> */
+
+#W3S-Spaces
+{
+    background-color: #282A35;
+    opacity: 0.96;
+    margin: auto;
+    padding: 85px 20px;
+    
+}
+.w3s-h1
+{
+    font-size: 65px;
+    font-weight: 700;
+    text-align: center!important;
+    color: #fff !important;
+    padding-top: 100px;
+    
+}
+.w3s-h3
+{
+    margin-top: 35px;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center !important;
+    color: #fff !important;
+}
+.w3s-btn
+{
+   
+    background-color: #04AA6D;
+    border-radius: 30px;
+   cursor: pointer;
+   margin-top: 50px;
+    margin-bottom: 18px;
+    font-size: 22px;
+    width: 300px;
+    padding: 11px 18px;
+    text-align: center;
+    margin-left: 33%;
+   
+}
+.w3s-btn a
+{
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    color: #fff !important;
+    
+}
+.w3s-hts
+{
+    margin-left: 115px;
+}
+
+/* color-picker */
+
+#color-picker
+{
+    background-color: #F3ECEA;
+    color: #000;
+   
+}
+.cp-container
+{
+    padding-top: 78px;
+    padding-bottom: 95px;
+}
+.cp-h1
+{
+    font-size: 65px;
+    font-weight: 700;
+    text-align: center!important;
+}
+.cp-h4
+{
+    font-size: 20px;
+    font-weight: 450;
+    text-align: center!important;
+    margin: 10px 0;
+}
+.cp-img
+{
+    margin-left: 41%;
+    margin-top: 25px;
+}
+
+/* code-game */
+
+#code-game
+{
+    background-color: #96D4D4!important;
+    color: black!important;
+}
+.cg-h1
+{
+    font-family: 'Freckle Face', cursive;
+    font-size: 48px;
+    text-align: center!important;
+    font-weight: 700;
+
+}
+.cg-h2
+{
+    text-align: center!important;
+    font-family: 'Freckle Face', cursive;
+    font-weight: 500;
+}
+.cg-btn
+{
+    background-color: #282A35;
+   cursor: pointer;
+   margin-top: 50px;
+    margin-bottom: 18px;
+    padding: 11px 18px;
+    text-align: center;
+    margin-left: 45%;
+    font-size: 18px;
+    width: 200px;
+    border-radius: 25px;
+
+}
+.cg-btn a
+{
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    color: #fff !important;
+}
+.cg-img
+{
+    margin-left: 48%;
+    margin-top: 25px;
+}
+
+/* exercise and quizes */
+
+#Exercises-quiz
+{
+    background-size: cover;
+    background: url(https://www.w3schools.com/about/w3codes.png);
+    background-repeat: no-repeat;
+    color: #fff;
+    background-position:center;
+    height: 107vh;
+    text-align: center!important;
+    padding-bottom: 80px!important;
+    background-color: #232434;
+}
+
+.eq-h2
+{
+    font-size: 45px;
+    font-weight: 700;
+}
+.ts-h4
+{
+    font-size: 20px;
+    font-weight: 400;
+}
+.exer-btn
+{
+    background-color: #04AA6D!important;
+    color: white !important;
+    text-align: center!important;
+    border-radius: 15px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    height: 180px;
+    cursor: pointer;
+    margin-top: 50px;
+    padding: 70px 50px;
+    width: 87%;
+    
+}
+.qz-btn
+{
+   
+    background-color: #FFF4A3!important;
+    color: black!important;
+    text-align: center!important;
+    border-radius: 15px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    height: 180px;
+    cursor: pointer;
+    margin-top: 50px;
+    padding: 70px 50px;
+    width: 87%;
+    
+}
+.eq-btn
+{
+    position: relative;
+    font-size: 35px;
+}
+
+/* web templates */
+
+#web-temp
+{
+    background-color: #E7E9EB!important;
+}
+.webtemp-h2
+{
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center!important;
+}
+.webtemp-h4
+{
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center!important;
+    line-height: 1.5;
+}
+.webtemp-btn
+{
+    width: 50%;
+    background-color: #232434;
+    color: white !important;
+    border-radius: 30px;
+    height: 60px;
+    margin-left: 25%;
+    margin-top: 2.5%;
+    cursor: pointer;
+
+}
+.w-btn
+{
+    position: relative;
+    font-size: 23px;
+    text-align: center;
+    padding-top: 2.5%;
+    cursor: pointer;
+   
+}
+.webtemp-img
+{
+    margin-top: 1%;
+  margin-left: 15%;
+  margin-right: 13%;
+   height: 60vh;
+   width: 70vw;
+}
+
+/* kick start your career */
+
+#kyc
+{
+    background-color: #282A35;
+    color: #FFC0C7;
+}
+.kyc-container
+{
+    padding-top: 10px;
+    padding-bottom: 95px;
+    padding-left: 60px;
+}
+.kyc-h2
+{
+    font-size: 62px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+
+}
+.kyc-p
+{
+    font-size: 52px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.kyc-btn
+{
+    background-color: #04AA6D;
+    border-radius: 30px;
+   cursor: pointer;
+   margin-top: 50px;
+    margin-bottom: 18px;
+    font-size: 22px;
+    width: 300px;
+    padding: 11px 18px;
+    text-align: center;
+}
+.kyc-btn a
+{
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    color: #fff !important;
+}
+
+/* how to section */
+
+#hts
+{
+    color: #000!important;
+    background-color: #fff!important;
+}
+.hts-container
+{
+    
+    padding: 5% 16% 15%;
+
+}
+.hts-h2
+{
+    text-align: center!important;
+    font-size: 45px;
+    font-weight: 700;
+    padding-bottom: 3%;
+
+}
+.hts-h4
+{
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px 0;
+    text-align: center!important;
+    padding-bottom: 3%;
+}
+.hts-h6
+{
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0;
+    text-align: center!important;
+    color: #000!important;
+    padding-bottom: 3%;
+}
+.ch22
+{
+    text-align: center;
+}
+
+
+/* footer */
+
+#footer
+{
+    background-color: #282A35!important;
+
+}
+.footer-container
+{
+    padding: 4% 3%;
+
+
+}
+.button1
+{
+    color: #000!important;
+    background-color: #fff!important;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    display: inline-block;
+    padding: 10px 32px;
+    height: 45px;
+    cursor: pointer;
+    margin: 5px;
+   
+}
+#footer a
+{
+    position: relative;
+    text-decoration: none;
+    text-align: center !important;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 12px;
+    
+}
+#footer i
+{
+    font-size: 20px;
+    display: inline-block;
+    font: normal normal normal 14px/1 fontawesome;
+}
+.ft-brand
+{
+    color: #000!important;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    display: inline-block;
+    padding: 15px 16px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.brands a i
+{
+    color: #fff;
+}
+.fot-p
+{
+    color: #fff !important;
+    text-align: center !important;
+    margin: 3% 0;
+}
+.like
+{
+    color: #fff;
+  margin-left: 50%;
+}
+.like:hover
+{
+    color: #059862;
+}
+
+
+
+
+

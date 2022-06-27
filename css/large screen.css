@@ -1,0 +1,33 @@
+@media only screen and ( max-width: 1000px) and (min-width: 767px)
+ {
+    .ltc-div
+    {
+        position: absolute;
+        left: 19%;
+        top: 24%;
+    }
+    .ltc-div-2
+    {
+        position: absolute;
+        top: 37%;
+        left: 22%;
+    }
+    .sm-img
+    {
+        display: none;
+    }
+    .c33
+    {
+        height: 100px;
+        width: 200px;
+        
+    }
+    .cv35
+    {
+        margin-left: 33px;
+    }
+    .md22
+    {
+        width: 13em;
+    }
+ }

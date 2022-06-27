@@ -1,0 +1,102 @@
+
+
+@media only screen and ( max-width: 768px) and (min-width: 577px)
+ {
+    .md-img
+    {
+        display: none;
+    }
+    .ltc-div
+    {
+        position: absolute;
+        left: 24%;
+        top: 24%;
+    }
+    .ltc-div-2
+    {
+        position: absolute;
+        top: 40%;
+        left: 27%;
+    }
+    .html-h1
+    {
+        font-size: 70px;
+    }
+    .html-p6
+    {
+        font-size: 16px;
+    }
+    .html-container
+    {
+        position: absolute;
+        left: 17%;
+        margin-top: 10%;
+    }
+    .js-container
+    {
+        position: relative;
+        left: 4%;
+        top: 7%;
+    }
+    .python-container
+    {
+        position: relative;
+        top: 13%;
+        left: 3%;
+    }
+    .sql-container
+    {
+        position: relative;
+        top: 13%;
+        left: 4%;
+    }
+    .mc-container
+    {
+        position: relative;
+        
+    }
+    .c2-btn
+    {
+       right: 5%;
+    }
+    .cg-img
+    {
+        margin-left: 35%;
+    }
+    .cg-btn
+    {
+        margin-left: 28%;
+    }
+    .cp-img
+    {
+        margin-left: 28%;
+    }
+    .w3s-hts
+    {
+        display: none;
+    }
+    .code-edit-add
+    {
+        display: none;
+    }
+   
+    .win33
+    {
+        margin-left: 0;
+    }
+    img.webtemp-img
+    {
+        height: 30vh;
+    }
+    .html-btn-3 a {
+        width: 200px;
+    }
+    .mdwdth
+    {
+        width: 5.5em;
+    }
+    .md22
+    {
+        width: 12em;
+    }
+}

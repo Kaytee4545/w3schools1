@@ -1,0 +1,178 @@
+@media (max-width: 576px)
+   
+ {
+    /* learn to code */
+    .ltc-h1
+    {
+        font-weight: 500;
+        font-size: 45px;
+    }
+    h6 
+    {
+        font-size: 19px;
+    }
+    .ltc-div
+    {
+        position: absolute;
+        left: 13%;
+        top: 26%;
+    }
+    .ltc-div-2
+    {
+        position: absolute;
+        top: 45%;
+        left: 10%;
+    }
+   
+    .ltc-a
+    {
+        font-size: large;
+    }
+    .ltc-div-2 form input:first-child {
+       
+        width: 100%;
+        padding: 8px 80px 10px 10px
+    }
+    .ltc-div-2 form input:last-child {
+        padding: 5px 20px;
+    }
+   /* html section */
+   .html-container
+   {
+       position: absolute;
+       left: 19%;
+       margin-top: 10%;
+   }
+   .html-h1
+   {
+     font-size: 50px;
+     margin-left: 20%;
+   }
+   .html-p6
+    {
+         font-size: 14px;
+    }
+   /* css section */
+   .css-container
+   {
+    right: 20%;
+   }
+   .css-h1
+   {
+    font-size: 50px;
+    margin-left: 20%;
+   }
+   .css-p6 
+     {
+         font-size: 16px;
+    }
+
+    /* js section */
+    .js-container
+    {
+        padding-right: 40%;
+    }
+    .js-h1
+    {
+        font-size: 35px;
+        left: 40%;
+    }
+    .js-p6
+     {
+        font-size: 11px;
+        left: 40%;
+    }
+    /* python-container */
+    .python-container
+    {
+        padding-right: 40%;
+    }
+    .pyt-h1 
+    {
+        font-size: 50px;
+        left: 43%;
+    }
+    .pyt-p6
+     {
+        font-size: 13px;
+        left: 35%;
+    }
+    /* sql-container */
+    .sql-container
+    {
+       padding-right: 41%;
+    }
+    .sql-h1
+    {
+        font-size: 60px;
+        left: 50%;
+    }
+    /* mc-container */
+
+    .mc-container
+    {
+        position: relative;
+       padding-top: 7%;
+      
+    }
+    .mc1-card
+    {
+        padding: 0;
+        margin-left: 0;
+        height: 90%;
+        width: 100%;
+    }
+   .c22
+   {
+        height: 120px;
+        width: 271px;
+        margin-left: 14%;
+        margin-top: 35px;
+   }
+   .cod-h1
+   {
+    font-size: 45px;
+   }
+   .cod-h4
+   {
+    font-size: 16px;
+   }
+   .cod11
+   {
+        width: 100% !important;
+        margin-left: 0;
+        font-size: 14px;
+   }
+   .add-h1 
+   {
+        font-size: 30px;
+   }
+   .add-hg 
+   {
+        font-size: 18px;
+   }
+   .w-btn
+   {
+        font-size: 14px;
+        top: 19px;
+   }
+    
+   img.webtemp-img
+    {
+        height: 25vh;
+    }
+    .cg-btn
+    {
+        margin-left: 90px;
+    }
+    .sm-img
+    {
+        display: none;
+    }
+    .wb
+    {
+        margin-left: 33px;
+    }
+
+    
+}
